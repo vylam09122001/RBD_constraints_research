@@ -8,6 +8,9 @@ backup/
 # --- Simulation cache & render output (not tracked) ---
 /geo/
 /render/
+/sim/
+/abc/
+/flip/
 
 # --- OS junk ---
 Thumbs.db
