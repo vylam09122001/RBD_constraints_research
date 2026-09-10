@@ -1,0 +1,23 @@
+# --- Houdini backups & temp ---
+*.hipbak
+*.hiplc.autobak
+*.hipnc.autobak
+*.lock
+backup/
+
+# --- Simulation cache & render output (not tracked) ---
+/geo/
+/render/
+
+# --- OS junk ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Editor/IDE ---
+.vscode/
+.idea/

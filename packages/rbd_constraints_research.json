@@ -1,0 +1,10 @@
+{
+    "env": [
+        {
+            "RBD_CONSTRAINTS_RESEARCH": "$HOUDINI_PACKAGE_DIR/../.."
+        }
+    ],
+    "path": "$RBD_CONSTRAINTS_RESEARCH",
+    "hpath": "$RBD_CONSTRAINTS_RESEARCH/otls",
+    "PYTHONPATH": "$RBD_CONSTRAINTS_RESEARCH/python"
+}
