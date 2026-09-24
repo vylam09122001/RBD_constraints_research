@@ -1,0 +1,14 @@
+Operator:     Vy_Lam::vl_constraintswitch_1_0::1.0
+Label:        Constraint Switch
+Path:         oplib:/Vy_Lam::Sop/vl_constraintswitch_1_0::1.0?Vy_Lam::Sop/vl_constraintswitch_1_0::1.0
+Icon:         SOP_subnet
+Table:        Sop
+License:      
+Extra:        inputcolors='1 "RGB 0.72549 0.72549 0.72549" ' outputcolors='1 "RGB 0.72549 0.72549 0.72549" ' 
+User:         
+Inputs:       0 to 1
+Subnet:       true
+Python:       false
+Empty:        false
+Modified:     Thu Sep 24 15:28:08 2026
+

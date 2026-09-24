@@ -1,0 +1,17 @@
+# Dialog script for Vy_Lam::vl_constraintswitch_1_0::1.0 automatically generated
+
+{
+    name	Vy_Lam::vl_constraintswitch_1_0::1.0
+    script	Vy_Lam::vl_constraintswitch_1_0::1.0
+    label	vl::constraintSwitch::1.0
+
+    help {
+	""
+    }
+
+    inputlabel	1	"Sub-Network Input #1"
+    inputlabel	2	"Sub-Network Input #2"
+    inputlabel	3	"Sub-Network Input #3"
+    inputlabel	4	"Sub-Network Input #4"
+
+}

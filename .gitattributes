@@ -1,5 +1,8 @@
 # Houdini scene/backup files are binary — don't let git try to text-diff or merge them
+*.hda binary
 *.hip binary
 *.hipnc binary
 *.hiplc binary
 *.hipbak binary
+
+
